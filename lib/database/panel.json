@@ -1,0 +1,184 @@
+{
+  "1GB": {
+    "harga": 1000,
+    "ram": 1000,
+    "cpu": 30,
+    "disk": 1000,
+    "terjual": 8
+  },
+  "2GB": {
+    "harga": 2000,
+    "ram": 2000,
+    "cpu": 60,
+    "disk": 2000,
+    "terjual": 3
+  },
+  "3GB": {
+    "harga": 3000,
+    "ram": 3000,
+    "cpu": 90,
+    "disk": 3000,
+    "terjual": 2
+  },
+  "4GB": {
+    "harga": 4000,
+    "ram": 4000,
+    "cpu": 120,
+    "disk": 4000,
+    "terjual": 1
+  },
+  "5GB": {
+    "harga": 5000,
+    "ram": 5000,
+    "cpu": 150,
+    "disk": 5000,
+    "terjual": 8
+  },
+  "6GB": {
+    "harga": 6000,
+    "ram": 6000,
+    "cpu": 180,
+    "disk": 6000,
+    "terjual": 5
+  },
+  "7GB": {
+    "harga": 7000,
+    "ram": 7000,
+    "cpu": 210,
+    "disk": 7000,
+    "terjual": 0
+  },
+  "8GB": {
+    "harga": 8000,
+    "ram": 8000,
+    "cpu": 240,
+    "disk": 8000,
+    "terjual": 0
+  },
+  "9GB": {
+    "harga": 9000,
+    "ram": 9000,
+    "cpu": 270,
+    "disk": 9000,
+    "terjual": 0
+  },
+  "10GB": {
+    "harga": 10000,
+    "ram": 10000,
+    "cpu": 300,
+    "disk": 10000,
+    "terjual": 8
+  },
+  "11GB": {
+    "harga": 11000,
+    "ram": 11000,
+    "cpu": 330,
+    "disk": 11000,
+    "terjual": 0
+  },
+  "12GB": {
+    "harga": 12000,
+    "ram": 12000,
+    "cpu": 360,
+    "disk": 12000,
+    "terjual": 0
+  },
+  "13GB": {
+    "harga": 13000,
+    "ram": 13000,
+    "cpu": 390,
+    "disk": 13000,
+    "terjual": 0
+  },
+  "14GB": {
+    "harga": 14000,
+    "ram": 14000,
+    "cpu": 420,
+    "disk": 14000,
+    "terjual": 0
+  },
+  "15GB": {
+    "harga": 15000,
+    "ram": 15000,
+    "cpu": 450,
+    "disk": 15000,
+    "terjual": 0
+  },
+  "16GB": {
+    "harga": 16000,
+    "ram": 16000,
+    "cpu": 480,
+    "disk": 16000,
+    "terjual": 0
+  },
+  "17GB": {
+    "harga": 17000,
+    "ram": 17000,
+    "cpu": 510,
+    "disk": 17000,
+    "terjual": 0
+  },
+  "18GB": {
+    "harga": 18000,
+    "ram": 18000,
+    "cpu": 540,
+    "disk": 18000,
+    "terjual": 0
+  },
+  "19GB": {
+    "harga": 19000,
+    "ram": 19000,
+    "cpu": 570,
+    "disk": 19000,
+    "terjual": 0
+  },
+  "20GB": {
+    "harga": 20000,
+    "ram": 20000,
+    "cpu": 600,
+    "disk": 20000,
+    "terjual": 0
+  },
+  "21GB": {
+    "harga": 21000,
+    "ram": 21000,
+    "cpu": 630,
+    "disk": 21000,
+    "terjual": 1
+  },
+  "22GB": {
+    "harga": 22000,
+    "ram": 22000,
+    "cpu": 660,
+    "disk": 22000,
+    "terjual": 0
+  },
+  "23GB": {
+    "harga": 23000,
+    "ram": 23000,
+    "cpu": 690,
+    "disk": 23000,
+    "terjual": 0
+  },
+  "24GB": {
+    "harga": 24000,
+    "ram": 24000,
+    "cpu": 720,
+    "disk": 24000,
+    "terjual": 0
+  },
+  "25GB": {
+    "harga": 25000,
+    "ram": 25000,
+    "cpu": 750,
+    "disk": 25000,
+    "terjual": 0
+  },
+  "UNLIMITED": {
+    "harga": 5000,
+    "ram": 0,
+    "cpu": 0,
+    "disk": 0,
+    "terjual": 13
+  }
+}
